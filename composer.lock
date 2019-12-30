@@ -333,16 +333,16 @@
         },
         {
             "name": "lorenzoaiello/cidr",
-            "version": "v1.0.0",
+            "version": "v1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lorenzoaiello/composer-cidr.git",
-                "reference": "454c8187f11de955c080b1d32177f00336bfb60b"
+                "reference": "0daf1577f0c8da5240ddb9909419998ecd518fac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lorenzoaiello/composer-cidr/zipball/454c8187f11de955c080b1d32177f00336bfb60b",
-                "reference": "454c8187f11de955c080b1d32177f00336bfb60b",
+                "url": "https://api.github.com/repos/lorenzoaiello/composer-cidr/zipball/0daf1577f0c8da5240ddb9909419998ecd518fac",
+                "reference": "0daf1577f0c8da5240ddb9909419998ecd518fac",
                 "shasum": ""
             },
             "require": {
@@ -368,7 +368,7 @@
                 }
             ],
             "description": "Package for manipulating CIDRs and matching IP addresses",
-            "time": "2019-12-30T18:42:33+00:00"
+            "time": "2019-12-30T19:31:49+00:00"
         },
         {
             "name": "nesbot/carbon",
