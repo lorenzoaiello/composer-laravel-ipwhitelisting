@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f9a384e5810ed1a0909ff668c821d11a",
+    "content-hash": "6ee9b9cd3126aa1ae1e5ff70f70c5e44",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -333,16 +333,16 @@
         },
         {
             "name": "lorenzoaiello/cidr",
-            "version": "v1.0.1",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lorenzoaiello/composer-cidr.git",
-                "reference": "0daf1577f0c8da5240ddb9909419998ecd518fac"
+                "reference": "c5d065c5d9590af8571405addb91f4b346710795"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lorenzoaiello/composer-cidr/zipball/0daf1577f0c8da5240ddb9909419998ecd518fac",
-                "reference": "0daf1577f0c8da5240ddb9909419998ecd518fac",
+                "url": "https://api.github.com/repos/lorenzoaiello/composer-cidr/zipball/c5d065c5d9590af8571405addb91f4b346710795",
+                "reference": "c5d065c5d9590af8571405addb91f4b346710795",
                 "shasum": ""
             },
             "require": {
@@ -368,7 +368,7 @@
                 }
             ],
             "description": "Package for manipulating CIDRs and matching IP addresses",
-            "time": "2019-12-30T19:31:49+00:00"
+            "time": "2019-12-30T20:06:03+00:00"
         },
         {
             "name": "nesbot/carbon",
